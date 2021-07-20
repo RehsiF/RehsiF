@@ -1,2 +1,3 @@
-git is a window 2.31.1version
-git is a free software
+git is window 2.31.1version
+git is a free open resource software
+oh,it's good for use
